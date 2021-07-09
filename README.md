@@ -6,8 +6,7 @@ There are three datasets that is international_debt table, IDSData, IDSCountry w
 Pandas and js implemented using MySQL and Python JuypterNotebook, and  
 further Tableau is used to do the analysis of the data, which  
 resulted into  some great  insights that can help to  take future decisions.
-
-![Screenshot](image_1.png)
-![Screenshot](image_2.png)
-![Screenshot](image_3.png)
-![Screenshot](image_4.png)
+[Screenshot](image_1.png)
+[Screenshot](image_2.png)
+[Screenshot](image_3.png)
+[Screenshot](image_4.png)
